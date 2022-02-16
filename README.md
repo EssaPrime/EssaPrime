@@ -26,9 +26,6 @@
 <br>
 <h5 align="center">My Github's Most Used Langauge:</h5>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=essaprime&show_icons=true&locale=en&langs_count=10" alt="essaprime" width="410" height="218"/>
-</p>
-
 <p align="center">
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=essaprime&show_icons=true&locale=en&langs_count=10" alt="essaprime" width="410" height="218"/>
 </p>
