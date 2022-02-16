@@ -22,8 +22,7 @@
 
 <h4 align="center">Contacts:</h4>
 <p align="center">
-<a href="https://www.youtube.com/c/essaprime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="essaprime" height="30" width="40" /></a>
-<a href="https://discord.gg/bDxyWYHjrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bDxyWYHjrz" height="30" width="40" /></a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/217353461933670403?animated=true)](https://discord.com/users/217353461933670403)
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=essaprime&show_icons=true&locale=en&layout=compact" alt="essaprime" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=essaprime&show_icons=true&locale=en" alt="essaprime" /></p>
