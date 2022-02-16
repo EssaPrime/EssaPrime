@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=essaprime&show_icons=true&locale=en&layout=compact" alt="essaprime" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=essaprime&show_icons=true&locale=en&langs_count=10" alt="essaprime" /></p>
 </p>
