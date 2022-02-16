@@ -25,4 +25,4 @@
 <a href="https://discord.com/users/217353461933670403"><img src="https://lanyard.cnrad.dev/api/217353461933670403?animated=true"></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=essaprime&show_icons=true&locale=en&layout=compact" alt="essaprime" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=essaprime&show_icons=true&locale=en&layout=compact" alt="essaprime" /></p>
