@@ -24,7 +24,7 @@
 <p align="center">
 <a href="https://discord.com/users/217353461933670403"><img src="https://lanyard.cnrad.dev/api/217353461933670403?animated=true"></a>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=essaprime&show_icons=true&locale=en&langs_count=10" alt="essaprime" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=essaprime&show_icons=true&locale=en&langs_count=10" alt="essaprime" width="410" height="218"/>
 </p>
 
 <p align="center">
