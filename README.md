@@ -23,8 +23,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/217353461933670403?animated=true)](https://discord.com/users/217353461933670403)
 
 <h4 align="center">Contacts:</h4>
-<p align="center">
+<p align="center"></p>[![Discord Presence](https://lanyard.cnrad.dev/api/217353461933670403?animated=true)](https://discord.com/users/217353461933670403)
 
-</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=essaprime&show_icons=true&locale=en&layout=compact" alt="essaprime" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=essaprime&show_icons=true&locale=en" alt="essaprime" /></p>
