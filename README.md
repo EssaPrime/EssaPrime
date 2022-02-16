@@ -20,10 +20,10 @@
 
 <p align="center"><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/722/584/png-clipart-net-framework-microsoft-windows-7-die-technische-referenz-microsoft-corporation-logo-agile-methodology-overview-text-teal.png" alt="dotnet" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://media.discordapp.net/attachments/621326000684269572/927865334755651614/download_3.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://evanpoe.github.io/portfolio/images/express-logo.png" alt="express" width="40" height="40"/></a></p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/217353461933670403?animated=true)](https://discord.com/users/217353461933670403)
-
 <h4 align="center">Contacts:</h4>
-<p align="center"></p>[![Discord Presence](https://lanyard.cnrad.dev/api/217353461933670403?animated=true)](https://discord.com/users/217353461933670403)
+<p align="center">
+<a href="https://discord.com/users/217353461933670403"><img src="https://lanyard.cnrad.dev/api/217353461933670403?animated=true"></a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=essaprime&show_icons=true&locale=en&layout=compact" alt="essaprime" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=essaprime&show_icons=true&locale=en" alt="essaprime" /></p>
